@@ -11,5 +11,5 @@
     </section>
   </main>
   <footer>
-    <p>Copyright &copy; 2023 Macro Wolf</p>
+    <p>Copyright &copy; 2023 Pasindu Geevinda</p>
   </footer>
