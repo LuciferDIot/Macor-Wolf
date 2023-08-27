@@ -9,16 +9,6 @@
       <p>We offer a wide range of automotive parts, including engines, transmissions, brakes, and more. We also offer custom-made parts to meet the specific needs of our customers.</p>
       <p>Our mission is to provide our customers with the highest quality automotive parts at the most competitive prices. We are committed to building long-term relationships with our customers and providing them with the best possible service.</p>
     </section>
-    <section id="contact">
-      <h3>Contact Us</h3>
-      <p>To contact us, please fill out the form below. We will get back to you as soon as possible.</p>
-      <form action="#">
-        <input type="text" name="name" placeholder="Your Name">
-        <input type="email" name="email" placeholder="Your Email">
-        <input type="text" name="message" placeholder="Your Message">
-        <button type="submit">Send</button>
-      </form>
-    </section>
   </main>
   <footer>
     <p>Copyright &copy; 2023 Macro Wolf</p>
